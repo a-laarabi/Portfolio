@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 a {
   text-decoration: none;
 }
@@ -36,9 +41,10 @@ nav ul a {
   padding: 20px;
 }
 
-h2 {
+h1 {
   font-family: 'Poppins', sans-serif;
   font-size: 48px;
+  margin-top: 50px;
 }
 
 .connect {
@@ -72,10 +78,12 @@ nav ul a:hover {
 .header_body p {
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
+  margin-top: 50px;
 }
 
 h4 {
   color: #7f8cff;
   font-size: 16px;
   font-family: 'Poppins', sans-serif;
+  margin-top: 30px;
 }
