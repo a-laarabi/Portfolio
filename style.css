@@ -25,7 +25,6 @@ header {
   justify-content: space-between;
   height: 72px;
   width: 80%;
-  height: 60px;
   margin: auto;
 }
 
@@ -47,7 +46,7 @@ header {
   background-repeat: no-repeat;
   background-size: 100%;
   background-color: #fff;
-  height: calc(100vh - 60px);
+  height: calc(100vh - 72px);
   border-radius: 0 0 0 100px;
 }
 
