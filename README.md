@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World
+# Portfolio: setup and mobile version skeleton
 
 > In this project, I started putting the things I studied into the test
 > This project is the starting of a portfolio, I hope that you enjoy it!
@@ -14,17 +14,10 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
 
 ### Usage
 
-### Run tests
-
-### Deployment
+### Make some changes ;)
 
 
 
